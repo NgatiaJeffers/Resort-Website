@@ -36,3 +36,20 @@ h2 {
     color: #611409;
     cursor: pointer;
 }
+
+.links {
+    margin-top: 500px;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.links li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #611409;
+}
+
+.links li a:hover {
+    color: #d0891f;
+    text-decoration: none;
+}
